@@ -1,0 +1,3 @@
+Aplikacija sluzi za crtanje pravih i krivih linija odredjene duzine,popunjene ili nepopunjene pravougaonike i elipse,
+efekat "vatromet", smajlije, srca, zvezde. Korisnik ima opcije "Obrisi sve", "Gumica", "Promeni boju pozadine" i "Uvezi slike sa racunara"
+Korisnik ima mogucnost biranja boje oblika koji zeli da nacrta.

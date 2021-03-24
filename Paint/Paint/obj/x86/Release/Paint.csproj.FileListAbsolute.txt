@@ -1,0 +1,13 @@
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\bin\Release\Paint.exe.config
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\bin\Release\Paint.exe
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\bin\Release\Paint.pdb
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\Paint.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\Paint.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\Paint.csproj.GenerateResource.Cache
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\Paint.exe
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\Paint.pdb
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\bin\Release\Interop.WMPLib.dll
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\bin\Release\AxInterop.WMPLib.dll
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\aleks\OneDrive\Radna površina\Paint\Paint\obj\x86\Release\Paint.csproj.ResolveComReference.cache
